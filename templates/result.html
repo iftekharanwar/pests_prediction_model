@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <div class="result">
+        <h1>Prediction Result</h1>
+        <div class="result-content">
+            <div class="pest-info" style="border: 2px solid red; padding: 10px;">
+                <p class="predicted-pest">Predicted Pest: {{ pest }}</p>
+                <img src="{{ url_for('static', filename='images/pests/' + pest_image) }}" alt="{{ pest }}" class="pest-image" style="width: 300px; height: auto;">
+            </div>
+            <div class="management-strategies">
+                <h2>Management Strategies:</h2>
+                <ul>
+                {% for strategy in strategies %}
+                    <li>{{ strategy }}</li>
+                {% endfor %}
+                </ul>
+            </div>
+        </div>
+        <a href="/" class="back-link">Back to Prediction Form</a>
+    </div>
+</body>
+</html>

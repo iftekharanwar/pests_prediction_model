@@ -1,0 +1,1001 @@
+Date,Pest,Life_Cycle_Stage,Crop_Affected,State,Infestation_Level,Month,Season
+2023-01-01,Cutworms,Pupa,Corn,California,High,1,Winter
+2023-01-01,Corn Rootworm,Pupa,Soybeans,California,High,1,Winter
+2023-01-02,Corn Rootworm,Adult,Cotton,Illinois,Medium,1,Winter
+2023-01-02,Armyworms,Egg,Wheat,California,Low,1,Winter
+2023-01-02,Armyworms,Pupa,Wheat,Iowa,Medium,1,Winter
+2023-01-02,Aphids,Adult,Rice,Nebraska,High,1,Winter
+2023-01-03,Armyworms,Egg,Corn,Iowa,Medium,1,Winter
+2023-01-03,Cutworms,Adult,Corn,California,Medium,1,Winter
+2023-01-03,Japanese Beetle,Egg,Corn,Illinois,Low,1,Winter
+2023-01-03,Armyworms,Pupa,Corn,Texas,Low,1,Winter
+2023-01-03,Corn Rootworm,Pupa,Wheat,California,Medium,1,Winter
+2023-01-03,Corn Rootworm,Pupa,Cotton,Nebraska,Low,1,Winter
+2023-01-04,Cutworms,Egg,Corn,Texas,High,1,Winter
+2023-01-04,Aphids,Pupa,Corn,Illinois,Medium,1,Winter
+2023-01-05,Japanese Beetle,Pupa,Wheat,California,Low,1,Winter
+2023-01-05,Armyworms,Pupa,Soybeans,Illinois,Medium,1,Winter
+2023-01-06,Cutworms,Pupa,Soybeans,Iowa,Low,1,Winter
+2023-01-06,Japanese Beetle,Adult,Rice,Texas,High,1,Winter
+2023-01-07,Aphids,Adult,Rice,Nebraska,Medium,1,Winter
+2023-01-07,Cutworms,Larva,Wheat,Illinois,Low,1,Winter
+2023-01-07,Armyworms,Pupa,Rice,California,Low,1,Winter
+2023-01-07,Aphids,Adult,Cotton,Texas,Low,1,Winter
+2023-01-07,Corn Rootworm,Larva,Wheat,California,High,1,Winter
+2023-01-08,Armyworms,Larva,Rice,Nebraska,High,1,Winter
+2023-01-08,Aphids,Adult,Corn,California,Medium,1,Winter
+2023-01-08,Armyworms,Egg,Wheat,Nebraska,Medium,1,Winter
+2023-01-08,Cutworms,Larva,Wheat,Nebraska,Low,1,Winter
+2023-01-08,Aphids,Pupa,Rice,Texas,Medium,1,Winter
+2023-01-09,Japanese Beetle,Larva,Soybeans,California,Low,1,Winter
+2023-01-09,Aphids,Egg,Wheat,Nebraska,Medium,1,Winter
+2023-01-10,Japanese Beetle,Egg,Wheat,Iowa,High,1,Winter
+2023-01-10,Corn Rootworm,Adult,Rice,Texas,Medium,1,Winter
+2023-01-10,Cutworms,Adult,Soybeans,Iowa,Low,1,Winter
+2023-01-11,Corn Rootworm,Egg,Corn,Illinois,Low,1,Winter
+2023-01-11,Aphids,Egg,Soybeans,Texas,Low,1,Winter
+2023-01-11,Armyworms,Larva,Corn,Texas,Medium,1,Winter
+2023-01-12,Armyworms,Adult,Rice,Illinois,Low,1,Winter
+2023-01-12,Corn Rootworm,Larva,Corn,Texas,Medium,1,Winter
+2023-01-12,Japanese Beetle,Pupa,Rice,Nebraska,Low,1,Winter
+2023-01-13,Armyworms,Egg,Rice,Iowa,Low,1,Winter
+2023-01-13,Corn Rootworm,Egg,Soybeans,Illinois,Low,1,Winter
+2023-01-13,Corn Rootworm,Larva,Wheat,Illinois,Medium,1,Winter
+2023-01-14,Armyworms,Larva,Corn,Iowa,Medium,1,Winter
+2023-01-15,Aphids,Egg,Wheat,Nebraska,Low,1,Winter
+2023-01-15,Japanese Beetle,Larva,Rice,Iowa,Medium,1,Winter
+2023-01-15,Cutworms,Adult,Soybeans,Illinois,High,1,Winter
+2023-01-16,Japanese Beetle,Adult,Wheat,Nebraska,Medium,1,Winter
+2023-01-17,Japanese Beetle,Pupa,Cotton,Iowa,Low,1,Winter
+2023-01-17,Aphids,Pupa,Cotton,Iowa,Medium,1,Winter
+2023-01-17,Cutworms,Larva,Rice,California,Medium,1,Winter
+2023-01-17,Cutworms,Pupa,Wheat,Texas,High,1,Winter
+2023-01-19,Corn Rootworm,Adult,Cotton,Illinois,Low,1,Winter
+2023-01-19,Armyworms,Pupa,Wheat,Texas,Medium,1,Winter
+2023-01-19,Corn Rootworm,Adult,Rice,Nebraska,Low,1,Winter
+2023-01-19,Cutworms,Egg,Wheat,Nebraska,Low,1,Winter
+2023-01-19,Aphids,Larva,Wheat,Illinois,Low,1,Winter
+2023-01-20,Corn Rootworm,Adult,Corn,California,High,1,Winter
+2023-01-20,Japanese Beetle,Adult,Soybeans,Illinois,Low,1,Winter
+2023-01-21,Japanese Beetle,Pupa,Wheat,California,High,1,Winter
+2023-01-21,Armyworms,Larva,Rice,Texas,Low,1,Winter
+2023-01-21,Aphids,Larva,Cotton,Texas,Medium,1,Winter
+2023-01-22,Aphids,Larva,Corn,Nebraska,Low,1,Winter
+2023-01-22,Aphids,Adult,Wheat,Illinois,High,1,Winter
+2023-01-23,Armyworms,Pupa,Wheat,California,Medium,1,Winter
+2023-01-23,Cutworms,Pupa,Cotton,Iowa,Medium,1,Winter
+2023-01-23,Japanese Beetle,Pupa,Corn,Texas,High,1,Winter
+2023-01-23,Aphids,Pupa,Cotton,Illinois,Medium,1,Winter
+2023-01-24,Aphids,Adult,Rice,Texas,Medium,1,Winter
+2023-01-25,Japanese Beetle,Adult,Rice,Illinois,High,1,Winter
+2023-01-25,Cutworms,Adult,Cotton,Texas,High,1,Winter
+2023-01-25,Corn Rootworm,Egg,Rice,Nebraska,High,1,Winter
+2023-01-25,Japanese Beetle,Larva,Soybeans,Iowa,High,1,Winter
+2023-01-26,Armyworms,Egg,Wheat,Texas,Medium,1,Winter
+2023-01-26,Armyworms,Adult,Cotton,Illinois,Medium,1,Winter
+2023-01-26,Armyworms,Larva,Cotton,Iowa,Medium,1,Winter
+2023-01-27,Aphids,Larva,Wheat,Texas,Low,1,Winter
+2023-01-27,Aphids,Larva,Rice,Nebraska,Medium,1,Winter
+2023-01-27,Japanese Beetle,Adult,Soybeans,Texas,High,1,Winter
+2023-01-27,Aphids,Egg,Rice,Texas,Medium,1,Winter
+2023-01-27,Japanese Beetle,Larva,Rice,Illinois,Low,1,Winter
+2023-01-27,Japanese Beetle,Larva,Cotton,Texas,Medium,1,Winter
+2023-01-28,Aphids,Larva,Soybeans,Illinois,Low,1,Winter
+2023-01-29,Japanese Beetle,Pupa,Wheat,Iowa,High,1,Winter
+2023-01-30,Aphids,Egg,Wheat,California,Low,1,Winter
+2023-01-30,Armyworms,Egg,Rice,Nebraska,Low,1,Winter
+2023-01-31,Cutworms,Larva,Wheat,Texas,High,1,Winter
+2023-01-31,Japanese Beetle,Pupa,Cotton,Texas,Low,1,Winter
+2023-02-01,Corn Rootworm,Adult,Soybeans,Texas,Low,2,Winter
+2023-02-01,Armyworms,Pupa,Wheat,Illinois,Medium,2,Winter
+2023-02-02,Cutworms,Pupa,Cotton,Illinois,Low,2,Winter
+2023-02-02,Aphids,Egg,Cotton,Iowa,Low,2,Winter
+2023-02-02,Corn Rootworm,Pupa,Wheat,California,Low,2,Winter
+2023-02-02,Cutworms,Egg,Cotton,Iowa,High,2,Winter
+2023-02-03,Japanese Beetle,Pupa,Wheat,Nebraska,Low,2,Winter
+2023-02-03,Aphids,Larva,Rice,Nebraska,Low,2,Winter
+2023-02-03,Corn Rootworm,Egg,Soybeans,Iowa,Medium,2,Winter
+2023-02-04,Armyworms,Egg,Cotton,Nebraska,High,2,Winter
+2023-02-04,Aphids,Pupa,Rice,Illinois,Low,2,Winter
+2023-02-04,Corn Rootworm,Pupa,Rice,Iowa,Medium,2,Winter
+2023-02-04,Armyworms,Egg,Rice,Texas,High,2,Winter
+2023-02-04,Armyworms,Adult,Corn,Iowa,High,2,Winter
+2023-02-05,Japanese Beetle,Larva,Cotton,Iowa,Low,2,Winter
+2023-02-05,Aphids,Pupa,Cotton,Illinois,High,2,Winter
+2023-02-05,Corn Rootworm,Pupa,Corn,Nebraska,High,2,Winter
+2023-02-06,Cutworms,Larva,Soybeans,Iowa,Medium,2,Winter
+2023-02-07,Corn Rootworm,Egg,Corn,Nebraska,High,2,Winter
+2023-02-07,Aphids,Egg,Corn,Nebraska,Low,2,Winter
+2023-02-08,Aphids,Egg,Cotton,California,High,2,Winter
+2023-02-08,Aphids,Egg,Wheat,California,Low,2,Winter
+2023-02-08,Cutworms,Larva,Cotton,Texas,Low,2,Winter
+2023-02-09,Corn Rootworm,Pupa,Cotton,Illinois,High,2,Winter
+2023-02-09,Cutworms,Pupa,Soybeans,Texas,High,2,Winter
+2023-02-09,Aphids,Larva,Cotton,California,Low,2,Winter
+2023-02-09,Armyworms,Egg,Corn,California,Low,2,Winter
+2023-02-09,Armyworms,Adult,Wheat,Texas,Low,2,Winter
+2023-02-09,Cutworms,Pupa,Rice,California,High,2,Winter
+2023-02-10,Corn Rootworm,Adult,Soybeans,Texas,Low,2,Winter
+2023-02-10,Cutworms,Adult,Wheat,Illinois,Low,2,Winter
+2023-02-11,Japanese Beetle,Adult,Soybeans,Texas,Low,2,Winter
+2023-02-12,Corn Rootworm,Pupa,Corn,Iowa,Medium,2,Winter
+2023-02-12,Cutworms,Egg,Corn,Illinois,Low,2,Winter
+2023-02-12,Corn Rootworm,Egg,Soybeans,Nebraska,High,2,Winter
+2023-02-12,Corn Rootworm,Egg,Wheat,Iowa,High,2,Winter
+2023-02-13,Corn Rootworm,Egg,Wheat,Texas,High,2,Winter
+2023-02-14,Aphids,Larva,Soybeans,Illinois,High,2,Winter
+2023-02-14,Cutworms,Pupa,Soybeans,Iowa,High,2,Winter
+2023-02-14,Japanese Beetle,Larva,Wheat,Texas,Medium,2,Winter
+2023-02-14,Japanese Beetle,Adult,Cotton,Illinois,High,2,Winter
+2023-02-15,Aphids,Larva,Soybeans,Nebraska,Low,2,Winter
+2023-02-16,Cutworms,Egg,Soybeans,Iowa,High,2,Winter
+2023-02-17,Cutworms,Adult,Soybeans,California,Medium,2,Winter
+2023-02-17,Armyworms,Larva,Rice,Texas,Medium,2,Winter
+2023-02-18,Cutworms,Pupa,Soybeans,California,Low,2,Winter
+2023-02-18,Aphids,Pupa,Cotton,Texas,Low,2,Winter
+2023-02-18,Armyworms,Egg,Cotton,Iowa,High,2,Winter
+2023-02-19,Corn Rootworm,Pupa,Corn,Nebraska,Medium,2,Winter
+2023-02-19,Japanese Beetle,Adult,Wheat,Texas,Medium,2,Winter
+2023-02-20,Cutworms,Larva,Wheat,Illinois,High,2,Winter
+2023-02-21,Japanese Beetle,Larva,Soybeans,Nebraska,High,2,Winter
+2023-02-21,Cutworms,Larva,Corn,Illinois,Low,2,Winter
+2023-02-21,Cutworms,Egg,Corn,California,Low,2,Winter
+2023-02-21,Aphids,Adult,Corn,Iowa,Medium,2,Winter
+2023-02-22,Cutworms,Larva,Soybeans,Illinois,Medium,2,Winter
+2023-02-23,Armyworms,Adult,Wheat,Illinois,High,2,Winter
+2023-02-24,Corn Rootworm,Egg,Corn,Nebraska,High,2,Winter
+2023-02-25,Cutworms,Egg,Soybeans,Iowa,High,2,Winter
+2023-02-26,Cutworms,Larva,Wheat,Nebraska,Low,2,Winter
+2023-02-26,Japanese Beetle,Adult,Wheat,Illinois,Medium,2,Winter
+2023-02-27,Corn Rootworm,Adult,Soybeans,Iowa,High,2,Winter
+2023-02-27,Aphids,Egg,Wheat,California,Medium,2,Winter
+2023-02-27,Armyworms,Pupa,Soybeans,Texas,Low,2,Winter
+2023-02-28,Japanese Beetle,Egg,Corn,California,Low,2,Winter
+2023-03-02,Corn Rootworm,Adult,Corn,California,Low,3,Winter
+2023-03-02,Aphids,Egg,Cotton,California,Medium,3,Winter
+2023-03-02,Cutworms,Pupa,Rice,Iowa,Low,3,Winter
+2023-03-02,Japanese Beetle,Egg,Cotton,California,High,3,Winter
+2023-03-02,Japanese Beetle,Egg,Soybeans,Texas,Low,3,Winter
+2023-03-02,Aphids,Adult,Corn,Illinois,Medium,3,Winter
+2023-03-02,Aphids,Pupa,Cotton,Texas,Medium,3,Winter
+2023-03-03,Aphids,Egg,Cotton,Iowa,High,3,Winter
+2023-03-03,Corn Rootworm,Pupa,Corn,California,High,3,Winter
+2023-03-03,Cutworms,Egg,Corn,California,Low,3,Winter
+2023-03-05,Japanese Beetle,Larva,Wheat,Iowa,Low,3,Winter
+2023-03-05,Japanese Beetle,Larva,Wheat,Texas,High,3,Winter
+2023-03-05,Aphids,Larva,Cotton,California,Medium,3,Winter
+2023-03-05,Japanese Beetle,Egg,Cotton,Texas,Medium,3,Winter
+2023-03-05,Aphids,Pupa,Corn,Iowa,Low,3,Winter
+2023-03-05,Cutworms,Adult,Rice,Texas,High,3,Winter
+2023-03-06,Armyworms,Adult,Wheat,Illinois,High,3,Winter
+2023-03-06,Cutworms,Adult,Corn,Iowa,High,3,Winter
+2023-03-07,Corn Rootworm,Egg,Soybeans,California,Low,3,Winter
+2023-03-07,Aphids,Larva,Wheat,Iowa,Medium,3,Winter
+2023-03-07,Cutworms,Adult,Wheat,California,Medium,3,Winter
+2023-03-08,Aphids,Pupa,Corn,Nebraska,Low,3,Winter
+2023-03-08,Japanese Beetle,Pupa,Cotton,Illinois,Medium,3,Winter
+2023-03-08,Armyworms,Egg,Wheat,Illinois,Medium,3,Winter
+2023-03-08,Cutworms,Pupa,Corn,Texas,Medium,3,Winter
+2023-03-08,Japanese Beetle,Pupa,Wheat,Texas,Low,3,Winter
+2023-03-08,Japanese Beetle,Egg,Soybeans,California,High,3,Winter
+2023-03-09,Japanese Beetle,Pupa,Wheat,Illinois,Medium,3,Winter
+2023-03-09,Armyworms,Adult,Soybeans,Illinois,Medium,3,Winter
+2023-03-10,Aphids,Larva,Cotton,Texas,High,3,Winter
+2023-03-10,Japanese Beetle,Egg,Soybeans,Nebraska,High,3,Winter
+2023-03-11,Armyworms,Egg,Corn,Iowa,Medium,3,Winter
+2023-03-11,Cutworms,Egg,Wheat,California,Medium,3,Winter
+2023-03-12,Aphids,Egg,Soybeans,Texas,Medium,3,Winter
+2023-03-12,Aphids,Egg,Cotton,Texas,Medium,3,Winter
+2023-03-12,Corn Rootworm,Egg,Cotton,Texas,High,3,Winter
+2023-03-13,Aphids,Pupa,Cotton,Iowa,High,3,Winter
+2023-03-13,Cutworms,Adult,Wheat,Illinois,High,3,Winter
+2023-03-13,Corn Rootworm,Pupa,Rice,Iowa,High,3,Winter
+2023-03-13,Japanese Beetle,Larva,Cotton,Illinois,Medium,3,Winter
+2023-03-14,Corn Rootworm,Pupa,Wheat,Iowa,High,3,Winter
+2023-03-15,Japanese Beetle,Pupa,Rice,Texas,Medium,3,Winter
+2023-03-15,Aphids,Pupa,Corn,California,Low,3,Winter
+2023-03-15,Armyworms,Adult,Cotton,Nebraska,Low,3,Winter
+2023-03-15,Aphids,Egg,Cotton,Nebraska,Medium,3,Winter
+2023-03-15,Armyworms,Pupa,Wheat,Nebraska,Medium,3,Winter
+2023-03-16,Aphids,Pupa,Wheat,Texas,High,3,Winter
+2023-03-17,Corn Rootworm,Pupa,Soybeans,Illinois,Medium,3,Winter
+2023-03-18,Cutworms,Adult,Corn,Nebraska,Medium,3,Winter
+2023-03-19,Armyworms,Larva,Corn,Nebraska,High,3,Winter
+2023-03-19,Cutworms,Egg,Rice,Iowa,High,3,Winter
+2023-03-19,Aphids,Pupa,Corn,California,Medium,3,Winter
+2023-03-19,Corn Rootworm,Larva,Corn,Iowa,Low,3,Winter
+2023-03-19,Cutworms,Pupa,Soybeans,Iowa,Medium,3,Winter
+2023-03-20,Cutworms,Adult,Rice,California,Medium,3,Winter
+2023-03-20,Japanese Beetle,Adult,Soybeans,Iowa,Low,3,Winter
+2023-03-21,Cutworms,Adult,Corn,California,Low,3,Winter
+2023-03-21,Corn Rootworm,Egg,Soybeans,California,Low,3,Winter
+2023-03-21,Armyworms,Larva,Wheat,Illinois,High,3,Winter
+2023-03-22,Corn Rootworm,Adult,Rice,Texas,Low,3,Winter
+2023-03-22,Aphids,Pupa,Cotton,California,High,3,Winter
+2023-03-23,Cutworms,Pupa,Wheat,Nebraska,High,3,Winter
+2023-03-23,Corn Rootworm,Larva,Wheat,Iowa,Medium,3,Winter
+2023-03-23,Armyworms,Egg,Soybeans,Nebraska,High,3,Winter
+2023-03-23,Armyworms,Pupa,Corn,California,Medium,3,Winter
+2023-03-23,Aphids,Larva,Corn,Texas,High,3,Winter
+2023-03-23,Japanese Beetle,Egg,Wheat,Illinois,Low,3,Winter
+2023-03-24,Japanese Beetle,Adult,Cotton,California,Low,3,Winter
+2023-03-24,Japanese Beetle,Larva,Soybeans,Iowa,Low,3,Winter
+2023-03-24,Armyworms,Egg,Corn,Illinois,Low,3,Winter
+2023-03-24,Armyworms,Adult,Cotton,Illinois,Low,3,Winter
+2023-03-25,Aphids,Pupa,Rice,Texas,Low,3,Winter
+2023-03-25,Corn Rootworm,Larva,Rice,Nebraska,Low,3,Winter
+2023-03-25,Aphids,Larva,Corn,Iowa,Low,3,Winter
+2023-03-26,Japanese Beetle,Adult,Corn,Texas,High,3,Winter
+2023-03-26,Corn Rootworm,Pupa,Soybeans,Iowa,Medium,3,Winter
+2023-03-26,Corn Rootworm,Egg,Rice,Texas,Low,3,Winter
+2023-03-26,Cutworms,Larva,Wheat,Texas,Medium,3,Winter
+2023-03-27,Cutworms,Adult,Rice,Nebraska,High,3,Winter
+2023-03-27,Aphids,Larva,Cotton,Iowa,High,3,Winter
+2023-03-27,Corn Rootworm,Egg,Corn,California,Medium,3,Winter
+2023-03-27,Cutworms,Egg,Rice,Nebraska,Medium,3,Winter
+2023-03-28,Armyworms,Pupa,Corn,Nebraska,High,3,Winter
+2023-03-28,Cutworms,Larva,Rice,California,Low,3,Winter
+2023-03-28,Armyworms,Adult,Rice,California,High,3,Winter
+2023-03-29,Cutworms,Larva,Cotton,Iowa,Low,3,Winter
+2023-03-29,Cutworms,Adult,Corn,Iowa,High,3,Winter
+2023-03-30,Aphids,Adult,Corn,Texas,High,3,Winter
+2023-03-30,Armyworms,Adult,Wheat,Iowa,Low,3,Winter
+2023-03-30,Armyworms,Pupa,Soybeans,Nebraska,Medium,3,Winter
+2023-03-31,Armyworms,Egg,Corn,Texas,Low,3,Winter
+2023-03-31,Armyworms,Pupa,Wheat,Texas,High,3,Winter
+2023-04-01,Japanese Beetle,Larva,Soybeans,Illinois,High,4,Spring
+2023-04-01,Armyworms,Adult,Wheat,Iowa,Low,4,Spring
+2023-04-01,Corn Rootworm,Pupa,Cotton,Illinois,Medium,4,Spring
+2023-04-01,Aphids,Adult,Soybeans,Illinois,High,4,Spring
+2023-04-01,Armyworms,Egg,Wheat,Iowa,Low,4,Spring
+2023-04-02,Cutworms,Egg,Rice,Nebraska,Medium,4,Spring
+2023-04-02,Cutworms,Pupa,Soybeans,Texas,High,4,Spring
+2023-04-02,Cutworms,Egg,Cotton,Iowa,Low,4,Spring
+2023-04-03,Cutworms,Larva,Wheat,Illinois,Medium,4,Spring
+2023-04-03,Armyworms,Larva,Wheat,Illinois,High,4,Spring
+2023-04-03,Armyworms,Egg,Corn,California,Medium,4,Spring
+2023-04-03,Cutworms,Larva,Wheat,Illinois,Medium,4,Spring
+2023-04-04,Japanese Beetle,Pupa,Corn,California,Low,4,Spring
+2023-04-04,Aphids,Larva,Rice,Illinois,Low,4,Spring
+2023-04-04,Cutworms,Pupa,Cotton,Iowa,Medium,4,Spring
+2023-04-04,Japanese Beetle,Larva,Soybeans,Iowa,Low,4,Spring
+2023-04-04,Cutworms,Larva,Wheat,Nebraska,Low,4,Spring
+2023-04-05,Armyworms,Egg,Rice,Texas,Medium,4,Spring
+2023-04-05,Cutworms,Egg,Soybeans,Illinois,Low,4,Spring
+2023-04-05,Armyworms,Egg,Soybeans,Iowa,Medium,4,Spring
+2023-04-05,Armyworms,Larva,Corn,Iowa,Low,4,Spring
+2023-04-05,Cutworms,Pupa,Rice,Iowa,Medium,4,Spring
+2023-04-06,Aphids,Pupa,Soybeans,Texas,Medium,4,Spring
+2023-04-06,Aphids,Pupa,Rice,Nebraska,High,4,Spring
+2023-04-06,Aphids,Adult,Corn,Illinois,Medium,4,Spring
+2023-04-07,Corn Rootworm,Adult,Soybeans,Iowa,Medium,4,Spring
+2023-04-08,Corn Rootworm,Larva,Wheat,Iowa,High,4,Spring
+2023-04-08,Aphids,Pupa,Cotton,Texas,High,4,Spring
+2023-04-08,Cutworms,Adult,Cotton,Iowa,Low,4,Spring
+2023-04-08,Armyworms,Larva,Soybeans,Illinois,Low,4,Spring
+2023-04-08,Aphids,Pupa,Corn,Illinois,Medium,4,Spring
+2023-04-08,Corn Rootworm,Larva,Wheat,Illinois,Medium,4,Spring
+2023-04-08,Corn Rootworm,Adult,Wheat,Nebraska,Low,4,Spring
+2023-04-09,Cutworms,Egg,Rice,Illinois,Low,4,Spring
+2023-04-09,Corn Rootworm,Larva,Cotton,Nebraska,Medium,4,Spring
+2023-04-10,Aphids,Egg,Soybeans,Iowa,High,4,Spring
+2023-04-10,Japanese Beetle,Pupa,Corn,Illinois,Medium,4,Spring
+2023-04-11,Japanese Beetle,Larva,Rice,Iowa,Low,4,Spring
+2023-04-11,Japanese Beetle,Egg,Wheat,Nebraska,High,4,Spring
+2023-04-12,Aphids,Adult,Cotton,Texas,High,4,Spring
+2023-04-12,Armyworms,Egg,Cotton,Illinois,Medium,4,Spring
+2023-04-13,Corn Rootworm,Larva,Rice,California,Low,4,Spring
+2023-04-13,Aphids,Larva,Soybeans,Illinois,High,4,Spring
+2023-04-13,Japanese Beetle,Pupa,Cotton,Texas,Medium,4,Spring
+2023-04-13,Armyworms,Pupa,Wheat,Illinois,Low,4,Spring
+2023-04-13,Aphids,Egg,Rice,Texas,Low,4,Spring
+2023-04-13,Aphids,Larva,Soybeans,Nebraska,High,4,Spring
+2023-04-14,Aphids,Larva,Corn,Iowa,Low,4,Spring
+2023-04-14,Japanese Beetle,Larva,Soybeans,Illinois,Medium,4,Spring
+2023-04-14,Armyworms,Pupa,Rice,Illinois,High,4,Spring
+2023-04-14,Cutworms,Larva,Soybeans,Illinois,Low,4,Spring
+2023-04-15,Japanese Beetle,Adult,Corn,Nebraska,Medium,4,Spring
+2023-04-15,Cutworms,Egg,Soybeans,Nebraska,High,4,Spring
+2023-04-15,Aphids,Larva,Cotton,Iowa,Low,4,Spring
+2023-04-16,Aphids,Egg,Soybeans,Texas,High,4,Spring
+2023-04-16,Cutworms,Pupa,Cotton,Illinois,Medium,4,Spring
+2023-04-16,Cutworms,Pupa,Wheat,California,High,4,Spring
+2023-04-17,Japanese Beetle,Adult,Soybeans,Iowa,Low,4,Spring
+2023-04-17,Armyworms,Egg,Rice,Illinois,Low,4,Spring
+2023-04-17,Armyworms,Egg,Wheat,Illinois,Medium,4,Spring
+2023-04-17,Cutworms,Larva,Cotton,California,Low,4,Spring
+2023-04-17,Japanese Beetle,Adult,Corn,Nebraska,High,4,Spring
+2023-04-18,Aphids,Egg,Cotton,Illinois,Low,4,Spring
+2023-04-18,Aphids,Egg,Wheat,Texas,Medium,4,Spring
+2023-04-19,Aphids,Adult,Soybeans,Iowa,Low,4,Spring
+2023-04-19,Corn Rootworm,Adult,Corn,Texas,Low,4,Spring
+2023-04-19,Aphids,Adult,Cotton,Nebraska,Medium,4,Spring
+2023-04-19,Armyworms,Adult,Corn,Nebraska,High,4,Spring
+2023-04-19,Japanese Beetle,Larva,Soybeans,Texas,Low,4,Spring
+2023-04-20,Armyworms,Larva,Wheat,Texas,Low,4,Spring
+2023-04-20,Armyworms,Egg,Soybeans,Illinois,Low,4,Spring
+2023-04-20,Corn Rootworm,Adult,Cotton,Illinois,Medium,4,Spring
+2023-04-20,Japanese Beetle,Adult,Rice,Texas,Low,4,Spring
+2023-04-20,Cutworms,Adult,Cotton,Iowa,High,4,Spring
+2023-04-21,Aphids,Pupa,Wheat,Nebraska,High,4,Spring
+2023-04-21,Japanese Beetle,Adult,Cotton,Texas,Medium,4,Spring
+2023-04-21,Japanese Beetle,Pupa,Corn,Nebraska,Medium,4,Spring
+2023-04-21,Aphids,Adult,Soybeans,California,Low,4,Spring
+2023-04-21,Armyworms,Larva,Corn,Texas,Medium,4,Spring
+2023-04-22,Corn Rootworm,Pupa,Wheat,California,Medium,4,Spring
+2023-04-22,Aphids,Adult,Rice,Texas,Medium,4,Spring
+2023-04-22,Armyworms,Adult,Rice,Illinois,High,4,Spring
+2023-04-23,Armyworms,Adult,Soybeans,Nebraska,Low,4,Spring
+2023-04-23,Japanese Beetle,Adult,Rice,Texas,Medium,4,Spring
+2023-04-23,Armyworms,Larva,Soybeans,Iowa,Medium,4,Spring
+2023-04-24,Aphids,Pupa,Rice,California,Medium,4,Spring
+2023-04-25,Aphids,Pupa,Cotton,Nebraska,Low,4,Spring
+2023-04-25,Armyworms,Larva,Wheat,California,Medium,4,Spring
+2023-04-26,Aphids,Adult,Corn,Illinois,Medium,4,Spring
+2023-04-26,Japanese Beetle,Adult,Rice,California,High,4,Spring
+2023-04-27,Japanese Beetle,Egg,Corn,Texas,Medium,4,Spring
+2023-04-27,Armyworms,Egg,Soybeans,Iowa,Low,4,Spring
+2023-04-27,Aphids,Larva,Soybeans,Texas,High,4,Spring
+2023-04-28,Cutworms,Larva,Soybeans,Iowa,High,4,Spring
+2023-04-28,Corn Rootworm,Pupa,Corn,Illinois,Low,4,Spring
+2023-04-28,Cutworms,Larva,Cotton,Nebraska,High,4,Spring
+2023-04-29,Aphids,Larva,Corn,Iowa,Medium,4,Spring
+2023-04-29,Cutworms,Larva,Corn,Illinois,High,4,Spring
+2023-04-29,Japanese Beetle,Adult,Corn,Iowa,Medium,4,Spring
+2023-04-29,Aphids,Adult,Rice,Illinois,Medium,4,Spring
+2023-04-30,Cutworms,Egg,Cotton,Illinois,Low,4,Spring
+2023-04-30,Cutworms,Egg,Rice,Illinois,Low,4,Spring
+2023-05-01,Armyworms,Adult,Corn,California,Medium,5,Spring
+2023-05-01,Corn Rootworm,Adult,Rice,Illinois,Medium,5,Spring
+2023-05-02,Aphids,Larva,Corn,Iowa,High,5,Spring
+2023-05-02,Armyworms,Larva,Rice,Nebraska,Low,5,Spring
+2023-05-02,Aphids,Pupa,Soybeans,Illinois,Low,5,Spring
+2023-05-03,Japanese Beetle,Egg,Soybeans,Nebraska,High,5,Spring
+2023-05-03,Aphids,Adult,Rice,California,Low,5,Spring
+2023-05-04,Aphids,Egg,Cotton,Illinois,High,5,Spring
+2023-05-04,Cutworms,Egg,Cotton,Texas,Low,5,Spring
+2023-05-04,Armyworms,Adult,Rice,Nebraska,Low,5,Spring
+2023-05-04,Corn Rootworm,Pupa,Rice,Iowa,Low,5,Spring
+2023-05-04,Japanese Beetle,Larva,Corn,California,Low,5,Spring
+2023-05-05,Aphids,Egg,Corn,Nebraska,Medium,5,Spring
+2023-05-05,Armyworms,Larva,Wheat,Illinois,Low,5,Spring
+2023-05-07,Aphids,Pupa,Cotton,Illinois,Low,5,Spring
+2023-05-07,Japanese Beetle,Egg,Wheat,California,Medium,5,Spring
+2023-05-08,Cutworms,Egg,Cotton,Iowa,High,5,Spring
+2023-05-08,Japanese Beetle,Pupa,Soybeans,California,High,5,Spring
+2023-05-08,Cutworms,Pupa,Cotton,Nebraska,High,5,Spring
+2023-05-09,Armyworms,Pupa,Rice,Nebraska,High,5,Spring
+2023-05-10,Armyworms,Pupa,Soybeans,Texas,High,5,Spring
+2023-05-10,Aphids,Pupa,Soybeans,Iowa,High,5,Spring
+2023-05-10,Armyworms,Pupa,Soybeans,California,High,5,Spring
+2023-05-10,Aphids,Larva,Wheat,California,Low,5,Spring
+2023-05-10,Japanese Beetle,Egg,Soybeans,California,High,5,Spring
+2023-05-10,Armyworms,Larva,Wheat,Nebraska,Medium,5,Spring
+2023-05-11,Corn Rootworm,Larva,Corn,Iowa,High,5,Spring
+2023-05-11,Cutworms,Egg,Corn,Iowa,Low,5,Spring
+2023-05-12,Corn Rootworm,Adult,Wheat,Texas,Medium,5,Spring
+2023-05-12,Cutworms,Pupa,Soybeans,Illinois,Low,5,Spring
+2023-05-13,Aphids,Adult,Cotton,Nebraska,High,5,Spring
+2023-05-13,Corn Rootworm,Egg,Rice,Illinois,High,5,Spring
+2023-05-13,Aphids,Larva,Wheat,Iowa,Medium,5,Spring
+2023-05-13,Japanese Beetle,Adult,Wheat,Iowa,Low,5,Spring
+2023-05-13,Cutworms,Adult,Soybeans,Iowa,Low,5,Spring
+2023-05-13,Japanese Beetle,Egg,Corn,Iowa,Medium,5,Spring
+2023-05-13,Japanese Beetle,Adult,Wheat,Texas,Medium,5,Spring
+2023-05-14,Corn Rootworm,Egg,Rice,Nebraska,Medium,5,Spring
+2023-05-14,Cutworms,Egg,Rice,Nebraska,Medium,5,Spring
+2023-05-14,Armyworms,Adult,Wheat,Texas,Low,5,Spring
+2023-05-14,Cutworms,Larva,Cotton,Nebraska,Medium,5,Spring
+2023-05-15,Japanese Beetle,Larva,Rice,Nebraska,Low,5,Spring
+2023-05-16,Cutworms,Larva,Cotton,Illinois,Low,5,Spring
+2023-05-16,Cutworms,Larva,Cotton,Illinois,Medium,5,Spring
+2023-05-17,Aphids,Larva,Rice,Texas,Low,5,Spring
+2023-05-17,Japanese Beetle,Adult,Soybeans,Iowa,Low,5,Spring
+2023-05-17,Japanese Beetle,Egg,Cotton,Nebraska,Medium,5,Spring
+2023-05-18,Cutworms,Pupa,Soybeans,Texas,High,5,Spring
+2023-05-19,Cutworms,Adult,Corn,Illinois,Low,5,Spring
+2023-05-19,Aphids,Pupa,Cotton,Nebraska,High,5,Spring
+2023-05-19,Japanese Beetle,Adult,Corn,California,High,5,Spring
+2023-05-19,Corn Rootworm,Pupa,Rice,Texas,High,5,Spring
+2023-05-19,Cutworms,Pupa,Cotton,California,Medium,5,Spring
+2023-05-19,Armyworms,Larva,Corn,California,High,5,Spring
+2023-05-20,Aphids,Adult,Soybeans,Iowa,High,5,Spring
+2023-05-20,Aphids,Pupa,Wheat,Texas,Low,5,Spring
+2023-05-20,Japanese Beetle,Egg,Rice,Texas,Medium,5,Spring
+2023-05-20,Cutworms,Pupa,Wheat,Illinois,Medium,5,Spring
+2023-05-21,Corn Rootworm,Adult,Soybeans,California,Low,5,Spring
+2023-05-21,Cutworms,Pupa,Corn,California,High,5,Spring
+2023-05-22,Japanese Beetle,Pupa,Corn,Nebraska,Low,5,Spring
+2023-05-23,Japanese Beetle,Pupa,Soybeans,Illinois,High,5,Spring
+2023-05-24,Japanese Beetle,Adult,Soybeans,Iowa,High,5,Spring
+2023-05-25,Armyworms,Larva,Soybeans,California,High,5,Spring
+2023-05-25,Cutworms,Adult,Soybeans,Nebraska,High,5,Spring
+2023-05-25,Aphids,Egg,Rice,Iowa,Low,5,Spring
+2023-05-25,Corn Rootworm,Egg,Cotton,Iowa,High,5,Spring
+2023-05-26,Japanese Beetle,Larva,Wheat,Iowa,Medium,5,Spring
+2023-05-28,Cutworms,Egg,Corn,Iowa,Low,5,Spring
+2023-05-28,Aphids,Pupa,Cotton,California,Low,5,Spring
+2023-05-28,Cutworms,Larva,Cotton,Nebraska,Low,5,Spring
+2023-05-29,Armyworms,Larva,Corn,Nebraska,Low,5,Spring
+2023-05-29,Armyworms,Larva,Rice,Nebraska,Medium,5,Spring
+2023-05-29,Cutworms,Egg,Wheat,Nebraska,Low,5,Spring
+2023-05-29,Armyworms,Pupa,Soybeans,Illinois,Medium,5,Spring
+2023-05-30,Armyworms,Larva,Corn,Iowa,High,5,Spring
+2023-05-30,Aphids,Egg,Rice,Illinois,High,5,Spring
+2023-05-30,Cutworms,Pupa,Corn,California,Medium,5,Spring
+2023-05-30,Armyworms,Egg,Cotton,California,Low,5,Spring
+2023-05-31,Aphids,Adult,Rice,Illinois,Low,5,Spring
+2023-06-01,Corn Rootworm,Adult,Wheat,Illinois,Low,6,Spring
+2023-06-01,Corn Rootworm,Egg,Corn,Texas,Medium,6,Spring
+2023-06-01,Corn Rootworm,Egg,Rice,California,Low,6,Spring
+2023-06-02,Aphids,Adult,Corn,Texas,Low,6,Spring
+2023-06-03,Cutworms,Adult,Rice,California,Medium,6,Spring
+2023-06-03,Japanese Beetle,Larva,Rice,Texas,Low,6,Spring
+2023-06-03,Corn Rootworm,Adult,Cotton,Illinois,High,6,Spring
+2023-06-03,Corn Rootworm,Egg,Cotton,Nebraska,Low,6,Spring
+2023-06-04,Cutworms,Larva,Soybeans,Illinois,Medium,6,Spring
+2023-06-04,Corn Rootworm,Pupa,Corn,Nebraska,Low,6,Spring
+2023-06-04,Corn Rootworm,Larva,Corn,Illinois,Low,6,Spring
+2023-06-05,Japanese Beetle,Egg,Soybeans,Iowa,Low,6,Spring
+2023-06-06,Cutworms,Egg,Wheat,Nebraska,Medium,6,Spring
+2023-06-07,Armyworms,Adult,Soybeans,Iowa,High,6,Spring
+2023-06-08,Corn Rootworm,Egg,Soybeans,Texas,Medium,6,Spring
+2023-06-08,Cutworms,Pupa,Corn,Texas,High,6,Spring
+2023-06-09,Aphids,Pupa,Corn,Nebraska,Low,6,Spring
+2023-06-11,Aphids,Adult,Wheat,California,High,6,Spring
+2023-06-11,Japanese Beetle,Egg,Cotton,Iowa,High,6,Spring
+2023-06-11,Corn Rootworm,Egg,Soybeans,Illinois,High,6,Spring
+2023-06-12,Armyworms,Adult,Corn,Iowa,Medium,6,Spring
+2023-06-13,Aphids,Pupa,Soybeans,Iowa,High,6,Spring
+2023-06-14,Armyworms,Pupa,Wheat,Iowa,Medium,6,Spring
+2023-06-15,Aphids,Pupa,Corn,Texas,Medium,6,Spring
+2023-06-15,Corn Rootworm,Pupa,Cotton,Nebraska,High,6,Spring
+2023-06-15,Cutworms,Egg,Cotton,Iowa,Low,6,Spring
+2023-06-15,Corn Rootworm,Larva,Soybeans,California,Low,6,Spring
+2023-06-18,Aphids,Larva,Wheat,Nebraska,High,6,Spring
+2023-06-18,Corn Rootworm,Egg,Rice,Nebraska,Low,6,Spring
+2023-06-18,Japanese Beetle,Adult,Soybeans,California,Low,6,Spring
+2023-06-19,Corn Rootworm,Larva,Soybeans,California,Low,6,Spring
+2023-06-19,Armyworms,Adult,Wheat,Nebraska,Low,6,Spring
+2023-06-19,Cutworms,Egg,Corn,California,High,6,Spring
+2023-06-20,Corn Rootworm,Larva,Corn,Nebraska,Medium,6,Spring
+2023-06-20,Armyworms,Larva,Wheat,Texas,High,6,Spring
+2023-06-20,Armyworms,Adult,Rice,Iowa,High,6,Spring
+2023-06-20,Armyworms,Adult,Corn,Illinois,Low,6,Spring
+2023-06-21,Aphids,Larva,Corn,Illinois,Low,6,Spring
+2023-06-22,Cutworms,Pupa,Cotton,California,Medium,6,Spring
+2023-06-24,Corn Rootworm,Pupa,Soybeans,Texas,Medium,6,Spring
+2023-06-24,Cutworms,Larva,Soybeans,Texas,Low,6,Spring
+2023-06-24,Corn Rootworm,Larva,Soybeans,Iowa,Low,6,Spring
+2023-06-24,Armyworms,Larva,Soybeans,California,Low,6,Spring
+2023-06-24,Japanese Beetle,Larva,Soybeans,Iowa,High,6,Spring
+2023-06-25,Corn Rootworm,Egg,Rice,Illinois,Low,6,Spring
+2023-06-26,Aphids,Egg,Rice,California,Low,6,Spring
+2023-06-27,Japanese Beetle,Egg,Rice,Texas,Low,6,Spring
+2023-06-27,Armyworms,Egg,Corn,Iowa,High,6,Spring
+2023-06-27,Cutworms,Larva,Rice,Illinois,Medium,6,Spring
+2023-06-27,Cutworms,Larva,Wheat,California,Medium,6,Spring
+2023-06-28,Armyworms,Larva,Corn,Illinois,Medium,6,Spring
+2023-06-28,Armyworms,Egg,Rice,Texas,High,6,Spring
+2023-06-28,Corn Rootworm,Egg,Cotton,Illinois,Medium,6,Spring
+2023-06-28,Japanese Beetle,Larva,Corn,Texas,Low,6,Spring
+2023-06-28,Cutworms,Larva,Soybeans,Nebraska,Medium,6,Spring
+2023-06-29,Cutworms,Larva,Corn,Iowa,High,6,Spring
+2023-06-29,Cutworms,Pupa,Soybeans,Nebraska,High,6,Spring
+2023-06-29,Cutworms,Larva,Rice,Nebraska,High,6,Spring
+2023-07-01,Cutworms,Pupa,Soybeans,Texas,High,7,Summer
+2023-07-01,Japanese Beetle,Larva,Corn,Illinois,Medium,7,Summer
+2023-07-01,Aphids,Larva,Cotton,Texas,Low,7,Summer
+2023-07-02,Aphids,Pupa,Wheat,California,High,7,Summer
+2023-07-02,Corn Rootworm,Egg,Wheat,Illinois,High,7,Summer
+2023-07-02,Cutworms,Adult,Wheat,California,High,7,Summer
+2023-07-02,Aphids,Egg,Soybeans,California,High,7,Summer
+2023-07-03,Japanese Beetle,Adult,Corn,Nebraska,Low,7,Summer
+2023-07-03,Armyworms,Larva,Rice,Illinois,High,7,Summer
+2023-07-03,Japanese Beetle,Egg,Wheat,Nebraska,Medium,7,Summer
+2023-07-04,Armyworms,Egg,Cotton,Illinois,Low,7,Summer
+2023-07-04,Armyworms,Larva,Soybeans,Texas,Low,7,Summer
+2023-07-04,Corn Rootworm,Pupa,Rice,Iowa,Medium,7,Summer
+2023-07-05,Cutworms,Adult,Soybeans,California,Low,7,Summer
+2023-07-05,Corn Rootworm,Pupa,Corn,California,Medium,7,Summer
+2023-07-06,Japanese Beetle,Egg,Soybeans,Nebraska,High,7,Summer
+2023-07-06,Japanese Beetle,Adult,Cotton,California,Medium,7,Summer
+2023-07-06,Japanese Beetle,Pupa,Wheat,Texas,High,7,Summer
+2023-07-06,Armyworms,Larva,Wheat,Texas,High,7,Summer
+2023-07-06,Cutworms,Larva,Cotton,California,High,7,Summer
+2023-07-06,Aphids,Egg,Rice,Iowa,Low,7,Summer
+2023-07-07,Japanese Beetle,Egg,Soybeans,Nebraska,Low,7,Summer
+2023-07-07,Corn Rootworm,Pupa,Cotton,Nebraska,Low,7,Summer
+2023-07-07,Cutworms,Pupa,Wheat,Texas,High,7,Summer
+2023-07-07,Aphids,Larva,Cotton,Illinois,High,7,Summer
+2023-07-09,Corn Rootworm,Adult,Wheat,Illinois,Low,7,Summer
+2023-07-09,Japanese Beetle,Adult,Soybeans,California,Medium,7,Summer
+2023-07-09,Corn Rootworm,Larva,Soybeans,California,Medium,7,Summer
+2023-07-10,Aphids,Pupa,Cotton,Illinois,Low,7,Summer
+2023-07-10,Corn Rootworm,Pupa,Wheat,Illinois,Medium,7,Summer
+2023-07-11,Cutworms,Egg,Corn,Illinois,High,7,Summer
+2023-07-11,Armyworms,Adult,Cotton,Iowa,Low,7,Summer
+2023-07-11,Japanese Beetle,Pupa,Wheat,Nebraska,Low,7,Summer
+2023-07-12,Japanese Beetle,Larva,Soybeans,Texas,High,7,Summer
+2023-07-12,Japanese Beetle,Pupa,Rice,California,Low,7,Summer
+2023-07-12,Aphids,Pupa,Wheat,Iowa,Medium,7,Summer
+2023-07-13,Aphids,Larva,Corn,Nebraska,Medium,7,Summer
+2023-07-13,Aphids,Larva,Soybeans,Nebraska,High,7,Summer
+2023-07-13,Armyworms,Adult,Soybeans,Texas,Low,7,Summer
+2023-07-14,Aphids,Pupa,Wheat,Illinois,High,7,Summer
+2023-07-14,Aphids,Pupa,Corn,Illinois,Low,7,Summer
+2023-07-14,Aphids,Adult,Rice,California,High,7,Summer
+2023-07-15,Armyworms,Pupa,Cotton,Iowa,Low,7,Summer
+2023-07-15,Armyworms,Egg,Corn,Nebraska,Medium,7,Summer
+2023-07-15,Corn Rootworm,Pupa,Soybeans,Iowa,Low,7,Summer
+2023-07-16,Cutworms,Pupa,Rice,Texas,Low,7,Summer
+2023-07-16,Corn Rootworm,Larva,Corn,Nebraska,High,7,Summer
+2023-07-16,Armyworms,Adult,Wheat,California,Low,7,Summer
+2023-07-16,Aphids,Larva,Soybeans,Illinois,Medium,7,Summer
+2023-07-17,Aphids,Larva,Soybeans,Iowa,High,7,Summer
+2023-07-17,Corn Rootworm,Pupa,Rice,Iowa,High,7,Summer
+2023-07-17,Aphids,Egg,Wheat,Nebraska,Medium,7,Summer
+2023-07-18,Aphids,Larva,Corn,Nebraska,Medium,7,Summer
+2023-07-18,Cutworms,Larva,Corn,California,High,7,Summer
+2023-07-18,Armyworms,Egg,Cotton,Iowa,Medium,7,Summer
+2023-07-18,Aphids,Larva,Soybeans,Iowa,Low,7,Summer
+2023-07-19,Aphids,Larva,Rice,Texas,Low,7,Summer
+2023-07-20,Armyworms,Egg,Rice,Illinois,Low,7,Summer
+2023-07-20,Corn Rootworm,Egg,Soybeans,Nebraska,High,7,Summer
+2023-07-21,Cutworms,Larva,Soybeans,Iowa,Medium,7,Summer
+2023-07-21,Cutworms,Egg,Wheat,Texas,Medium,7,Summer
+2023-07-22,Armyworms,Adult,Corn,Illinois,Low,7,Summer
+2023-07-22,Cutworms,Larva,Cotton,Texas,Low,7,Summer
+2023-07-23,Japanese Beetle,Adult,Soybeans,California,Low,7,Summer
+2023-07-23,Aphids,Adult,Corn,California,Low,7,Summer
+2023-07-24,Corn Rootworm,Larva,Cotton,California,Low,7,Summer
+2023-07-24,Corn Rootworm,Adult,Rice,Nebraska,High,7,Summer
+2023-07-24,Armyworms,Larva,Soybeans,California,High,7,Summer
+2023-07-25,Japanese Beetle,Pupa,Corn,Nebraska,High,7,Summer
+2023-07-25,Aphids,Adult,Corn,Nebraska,Medium,7,Summer
+2023-07-25,Armyworms,Egg,Cotton,Texas,High,7,Summer
+2023-07-25,Japanese Beetle,Adult,Rice,Iowa,Low,7,Summer
+2023-07-25,Corn Rootworm,Egg,Rice,Iowa,Medium,7,Summer
+2023-07-25,Aphids,Pupa,Corn,Iowa,High,7,Summer
+2023-07-26,Cutworms,Pupa,Corn,California,High,7,Summer
+2023-07-26,Japanese Beetle,Larva,Soybeans,Nebraska,High,7,Summer
+2023-07-27,Aphids,Pupa,Soybeans,Iowa,High,7,Summer
+2023-07-27,Aphids,Egg,Cotton,Iowa,Low,7,Summer
+2023-07-27,Japanese Beetle,Larva,Wheat,Texas,High,7,Summer
+2023-07-27,Japanese Beetle,Adult,Rice,Illinois,High,7,Summer
+2023-07-28,Japanese Beetle,Pupa,Wheat,Texas,Low,7,Summer
+2023-07-29,Japanese Beetle,Egg,Rice,Illinois,Low,7,Summer
+2023-07-29,Japanese Beetle,Adult,Corn,Texas,Low,7,Summer
+2023-07-29,Corn Rootworm,Egg,Wheat,Illinois,Medium,7,Summer
+2023-07-29,Aphids,Egg,Corn,Texas,High,7,Summer
+2023-07-29,Armyworms,Larva,Rice,Texas,Low,7,Summer
+2023-07-30,Japanese Beetle,Adult,Cotton,Texas,Medium,7,Summer
+2023-07-30,Corn Rootworm,Egg,Wheat,Texas,Medium,7,Summer
+2023-07-30,Cutworms,Adult,Cotton,Texas,High,7,Summer
+2023-07-31,Armyworms,Egg,Cotton,Texas,High,7,Summer
+2023-07-31,Corn Rootworm,Larva,Cotton,Texas,Medium,7,Summer
+2023-07-31,Japanese Beetle,Pupa,Cotton,California,High,7,Summer
+2023-08-01,Japanese Beetle,Egg,Cotton,California,Medium,8,Summer
+2023-08-01,Aphids,Larva,Rice,Iowa,Medium,8,Summer
+2023-08-02,Japanese Beetle,Egg,Cotton,Iowa,Low,8,Summer
+2023-08-03,Aphids,Pupa,Cotton,Illinois,Medium,8,Summer
+2023-08-04,Armyworms,Egg,Cotton,Illinois,Low,8,Summer
+2023-08-04,Japanese Beetle,Egg,Rice,California,Low,8,Summer
+2023-08-05,Aphids,Larva,Soybeans,California,High,8,Summer
+2023-08-05,Corn Rootworm,Larva,Soybeans,Nebraska,Medium,8,Summer
+2023-08-06,Armyworms,Larva,Wheat,Iowa,Medium,8,Summer
+2023-08-06,Corn Rootworm,Adult,Cotton,Iowa,High,8,Summer
+2023-08-07,Armyworms,Adult,Rice,Texas,High,8,Summer
+2023-08-07,Cutworms,Egg,Corn,California,Medium,8,Summer
+2023-08-07,Corn Rootworm,Adult,Rice,Nebraska,Low,8,Summer
+2023-08-07,Corn Rootworm,Egg,Cotton,Texas,Medium,8,Summer
+2023-08-08,Japanese Beetle,Egg,Wheat,Illinois,Medium,8,Summer
+2023-08-08,Aphids,Adult,Wheat,Texas,Low,8,Summer
+2023-08-09,Armyworms,Adult,Soybeans,Illinois,High,8,Summer
+2023-08-10,Japanese Beetle,Pupa,Cotton,California,Low,8,Summer
+2023-08-10,Corn Rootworm,Egg,Cotton,Illinois,Medium,8,Summer
+2023-08-10,Corn Rootworm,Egg,Corn,Iowa,Low,8,Summer
+2023-08-11,Japanese Beetle,Adult,Cotton,California,High,8,Summer
+2023-08-11,Aphids,Adult,Rice,California,Low,8,Summer
+2023-08-12,Corn Rootworm,Larva,Rice,Illinois,Medium,8,Summer
+2023-08-12,Japanese Beetle,Pupa,Cotton,Nebraska,High,8,Summer
+2023-08-13,Armyworms,Adult,Cotton,Illinois,Medium,8,Summer
+2023-08-13,Corn Rootworm,Larva,Wheat,California,Medium,8,Summer
+2023-08-14,Corn Rootworm,Larva,Rice,California,Medium,8,Summer
+2023-08-14,Aphids,Pupa,Rice,Illinois,Low,8,Summer
+2023-08-15,Cutworms,Adult,Cotton,Illinois,High,8,Summer
+2023-08-15,Japanese Beetle,Larva,Soybeans,Texas,High,8,Summer
+2023-08-15,Aphids,Larva,Wheat,Iowa,Medium,8,Summer
+2023-08-16,Aphids,Egg,Rice,Iowa,Medium,8,Summer
+2023-08-16,Armyworms,Larva,Rice,Illinois,Low,8,Summer
+2023-08-16,Japanese Beetle,Egg,Rice,California,Low,8,Summer
+2023-08-16,Cutworms,Pupa,Wheat,Texas,Low,8,Summer
+2023-08-16,Japanese Beetle,Adult,Rice,Texas,High,8,Summer
+2023-08-17,Japanese Beetle,Larva,Soybeans,California,Low,8,Summer
+2023-08-17,Corn Rootworm,Adult,Rice,Nebraska,High,8,Summer
+2023-08-17,Cutworms,Egg,Cotton,Illinois,Low,8,Summer
+2023-08-18,Corn Rootworm,Larva,Wheat,Illinois,High,8,Summer
+2023-08-19,Aphids,Adult,Corn,Iowa,Medium,8,Summer
+2023-08-19,Aphids,Pupa,Cotton,Iowa,Medium,8,Summer
+2023-08-19,Corn Rootworm,Adult,Wheat,Iowa,High,8,Summer
+2023-08-19,Aphids,Egg,Rice,Nebraska,High,8,Summer
+2023-08-20,Japanese Beetle,Adult,Wheat,Illinois,High,8,Summer
+2023-08-20,Armyworms,Larva,Soybeans,California,Low,8,Summer
+2023-08-20,Cutworms,Egg,Corn,California,High,8,Summer
+2023-08-20,Cutworms,Larva,Corn,Iowa,Medium,8,Summer
+2023-08-21,Armyworms,Pupa,Cotton,Iowa,Medium,8,Summer
+2023-08-21,Armyworms,Adult,Soybeans,Nebraska,Medium,8,Summer
+2023-08-21,Aphids,Adult,Wheat,Texas,Medium,8,Summer
+2023-08-21,Armyworms,Egg,Wheat,California,Medium,8,Summer
+2023-08-22,Japanese Beetle,Adult,Soybeans,Illinois,Low,8,Summer
+2023-08-22,Aphids,Pupa,Corn,Texas,Medium,8,Summer
+2023-08-22,Aphids,Egg,Rice,California,Low,8,Summer
+2023-08-23,Japanese Beetle,Pupa,Corn,Nebraska,Low,8,Summer
+2023-08-23,Armyworms,Pupa,Cotton,California,Medium,8,Summer
+2023-08-24,Aphids,Pupa,Corn,Iowa,Medium,8,Summer
+2023-08-24,Aphids,Larva,Corn,Texas,Low,8,Summer
+2023-08-24,Cutworms,Egg,Cotton,Illinois,Medium,8,Summer
+2023-08-25,Armyworms,Pupa,Wheat,California,Low,8,Summer
+2023-08-25,Japanese Beetle,Larva,Wheat,Nebraska,High,8,Summer
+2023-08-25,Cutworms,Larva,Cotton,Illinois,High,8,Summer
+2023-08-25,Cutworms,Pupa,Corn,California,High,8,Summer
+2023-08-25,Armyworms,Egg,Cotton,Illinois,Low,8,Summer
+2023-08-26,Cutworms,Egg,Corn,Iowa,Medium,8,Summer
+2023-08-26,Armyworms,Egg,Corn,Illinois,High,8,Summer
+2023-08-26,Cutworms,Adult,Wheat,Illinois,High,8,Summer
+2023-08-27,Japanese Beetle,Adult,Soybeans,Nebraska,Low,8,Summer
+2023-08-27,Aphids,Pupa,Corn,Texas,Medium,8,Summer
+2023-08-27,Corn Rootworm,Pupa,Corn,Texas,High,8,Summer
+2023-08-27,Cutworms,Larva,Cotton,California,Medium,8,Summer
+2023-08-27,Aphids,Adult,Cotton,Texas,Low,8,Summer
+2023-08-28,Japanese Beetle,Egg,Wheat,California,Low,8,Summer
+2023-08-28,Armyworms,Egg,Corn,Iowa,Low,8,Summer
+2023-08-28,Cutworms,Adult,Wheat,California,High,8,Summer
+2023-08-29,Corn Rootworm,Adult,Rice,Iowa,Medium,8,Summer
+2023-08-29,Aphids,Egg,Corn,California,Medium,8,Summer
+2023-08-29,Aphids,Pupa,Rice,Nebraska,Medium,8,Summer
+2023-08-30,Armyworms,Egg,Wheat,California,Medium,8,Summer
+2023-08-30,Aphids,Larva,Soybeans,Iowa,Medium,8,Summer
+2023-08-30,Aphids,Pupa,Soybeans,Nebraska,Medium,8,Summer
+2023-08-31,Armyworms,Larva,Soybeans,Nebraska,High,8,Summer
+2023-08-31,Aphids,Adult,Cotton,California,Low,8,Summer
+2023-09-02,Corn Rootworm,Larva,Wheat,Iowa,High,9,Summer
+2023-09-02,Armyworms,Egg,Soybeans,Iowa,High,9,Summer
+2023-09-02,Cutworms,Egg,Corn,Texas,Low,9,Summer
+2023-09-03,Corn Rootworm,Adult,Wheat,California,Medium,9,Summer
+2023-09-03,Aphids,Egg,Corn,Illinois,Medium,9,Summer
+2023-09-03,Cutworms,Adult,Corn,California,Medium,9,Summer
+2023-09-03,Armyworms,Pupa,Cotton,Texas,High,9,Summer
+2023-09-04,Corn Rootworm,Pupa,Wheat,Illinois,High,9,Summer
+2023-09-04,Armyworms,Adult,Corn,Illinois,High,9,Summer
+2023-09-04,Aphids,Egg,Wheat,Nebraska,High,9,Summer
+2023-09-05,Corn Rootworm,Pupa,Cotton,California,Low,9,Summer
+2023-09-06,Cutworms,Adult,Wheat,California,Low,9,Summer
+2023-09-06,Armyworms,Pupa,Wheat,Iowa,High,9,Summer
+2023-09-07,Japanese Beetle,Larva,Rice,Texas,Low,9,Summer
+2023-09-08,Cutworms,Egg,Wheat,Iowa,High,9,Summer
+2023-09-08,Aphids,Larva,Soybeans,Texas,Low,9,Summer
+2023-09-08,Japanese Beetle,Pupa,Cotton,California,Low,9,Summer
+2023-09-08,Armyworms,Larva,Corn,Iowa,Medium,9,Summer
+2023-09-09,Corn Rootworm,Adult,Wheat,Iowa,Medium,9,Summer
+2023-09-09,Japanese Beetle,Adult,Wheat,California,Low,9,Summer
+2023-09-09,Japanese Beetle,Pupa,Cotton,Texas,Medium,9,Summer
+2023-09-09,Aphids,Egg,Corn,Illinois,High,9,Summer
+2023-09-10,Corn Rootworm,Larva,Wheat,California,Low,9,Summer
+2023-09-10,Corn Rootworm,Pupa,Corn,Texas,Low,9,Summer
+2023-09-10,Corn Rootworm,Pupa,Soybeans,California,Low,9,Summer
+2023-09-10,Corn Rootworm,Egg,Corn,Nebraska,High,9,Summer
+2023-09-11,Cutworms,Egg,Wheat,California,Medium,9,Summer
+2023-09-12,Armyworms,Larva,Wheat,Illinois,Medium,9,Summer
+2023-09-13,Japanese Beetle,Adult,Soybeans,Texas,Medium,9,Summer
+2023-09-14,Japanese Beetle,Larva,Corn,Illinois,High,9,Summer
+2023-09-15,Aphids,Adult,Rice,Texas,High,9,Summer
+2023-09-15,Armyworms,Egg,Rice,Texas,Low,9,Summer
+2023-09-16,Aphids,Egg,Cotton,Illinois,Low,9,Summer
+2023-09-16,Armyworms,Adult,Cotton,Illinois,Low,9,Summer
+2023-09-17,Cutworms,Larva,Cotton,Iowa,Low,9,Summer
+2023-09-19,Armyworms,Pupa,Corn,Iowa,High,9,Summer
+2023-09-19,Corn Rootworm,Pupa,Wheat,Nebraska,High,9,Summer
+2023-09-19,Japanese Beetle,Larva,Corn,Texas,High,9,Summer
+2023-09-19,Armyworms,Pupa,Wheat,California,High,9,Summer
+2023-09-19,Armyworms,Larva,Cotton,Texas,Medium,9,Summer
+2023-09-19,Cutworms,Egg,Cotton,Texas,Medium,9,Summer
+2023-09-20,Cutworms,Egg,Soybeans,Iowa,High,9,Summer
+2023-09-20,Armyworms,Larva,Soybeans,California,Low,9,Summer
+2023-09-21,Cutworms,Larva,Corn,Illinois,Medium,9,Summer
+2023-09-21,Corn Rootworm,Adult,Wheat,Texas,Medium,9,Summer
+2023-09-22,Cutworms,Egg,Cotton,Nebraska,High,9,Summer
+2023-09-22,Corn Rootworm,Egg,Corn,Texas,Low,9,Summer
+2023-09-23,Armyworms,Adult,Cotton,Nebraska,Medium,9,Summer
+2023-09-23,Cutworms,Larva,Wheat,Nebraska,Medium,9,Summer
+2023-09-23,Cutworms,Pupa,Rice,Illinois,Medium,9,Summer
+2023-09-24,Japanese Beetle,Egg,Rice,California,Medium,9,Summer
+2023-09-24,Armyworms,Pupa,Cotton,Iowa,High,9,Summer
+2023-09-24,Armyworms,Egg,Wheat,California,High,9,Summer
+2023-09-24,Japanese Beetle,Larva,Rice,Texas,Low,9,Summer
+2023-09-25,Cutworms,Pupa,Cotton,Texas,High,9,Summer
+2023-09-25,Corn Rootworm,Larva,Rice,California,High,9,Summer
+2023-09-25,Aphids,Larva,Rice,Iowa,High,9,Summer
+2023-09-25,Cutworms,Pupa,Soybeans,Texas,Medium,9,Summer
+2023-09-25,Armyworms,Pupa,Wheat,California,Low,9,Summer
+2023-09-26,Armyworms,Larva,Cotton,Iowa,High,9,Summer
+2023-09-26,Cutworms,Pupa,Rice,Illinois,Medium,9,Summer
+2023-09-26,Cutworms,Egg,Wheat,Iowa,Medium,9,Summer
+2023-09-26,Cutworms,Larva,Soybeans,Texas,Medium,9,Summer
+2023-09-26,Cutworms,Larva,Rice,California,Medium,9,Summer
+2023-09-27,Armyworms,Egg,Cotton,Illinois,Low,9,Summer
+2023-09-27,Corn Rootworm,Pupa,Cotton,Illinois,High,9,Summer
+2023-09-27,Cutworms,Larva,Wheat,Nebraska,High,9,Summer
+2023-09-27,Armyworms,Pupa,Wheat,Texas,Low,9,Summer
+2023-09-27,Aphids,Larva,Rice,Iowa,Low,9,Summer
+2023-09-28,Aphids,Pupa,Cotton,Nebraska,Low,9,Summer
+2023-09-28,Japanese Beetle,Pupa,Cotton,California,Low,9,Summer
+2023-09-28,Japanese Beetle,Adult,Soybeans,Iowa,High,9,Summer
+2023-09-28,Japanese Beetle,Pupa,Soybeans,Iowa,High,9,Summer
+2023-09-29,Armyworms,Egg,Corn,Nebraska,High,9,Summer
+2023-09-30,Japanese Beetle,Egg,Corn,Illinois,Medium,9,Summer
+2023-09-30,Aphids,Larva,Cotton,California,High,9,Summer
+2023-10-01,Aphids,Larva,Rice,California,Medium,10,Fall
+2023-10-01,Corn Rootworm,Adult,Cotton,Iowa,Medium,10,Fall
+2023-10-01,Corn Rootworm,Adult,Corn,Nebraska,Low,10,Fall
+2023-10-01,Corn Rootworm,Pupa,Soybeans,Iowa,High,10,Fall
+2023-10-01,Cutworms,Pupa,Wheat,Iowa,High,10,Fall
+2023-10-02,Aphids,Egg,Rice,Illinois,High,10,Fall
+2023-10-02,Corn Rootworm,Adult,Soybeans,Illinois,Medium,10,Fall
+2023-10-02,Cutworms,Adult,Cotton,Nebraska,Medium,10,Fall
+2023-10-03,Cutworms,Egg,Soybeans,Illinois,High,10,Fall
+2023-10-03,Corn Rootworm,Adult,Soybeans,Illinois,High,10,Fall
+2023-10-03,Cutworms,Pupa,Corn,Nebraska,Low,10,Fall
+2023-10-04,Armyworms,Egg,Wheat,Nebraska,Medium,10,Fall
+2023-10-04,Cutworms,Egg,Corn,Nebraska,High,10,Fall
+2023-10-04,Armyworms,Adult,Cotton,Texas,Low,10,Fall
+2023-10-05,Cutworms,Larva,Rice,Texas,Medium,10,Fall
+2023-10-05,Armyworms,Pupa,Wheat,Nebraska,Low,10,Fall
+2023-10-06,Aphids,Larva,Wheat,Illinois,High,10,Fall
+2023-10-06,Aphids,Pupa,Soybeans,Illinois,Medium,10,Fall
+2023-10-07,Armyworms,Larva,Soybeans,Illinois,Low,10,Fall
+2023-10-08,Japanese Beetle,Larva,Cotton,Texas,High,10,Fall
+2023-10-08,Japanese Beetle,Egg,Corn,Illinois,Low,10,Fall
+2023-10-08,Cutworms,Egg,Soybeans,Illinois,Low,10,Fall
+2023-10-09,Japanese Beetle,Larva,Rice,California,High,10,Fall
+2023-10-09,Corn Rootworm,Larva,Wheat,Illinois,High,10,Fall
+2023-10-09,Cutworms,Larva,Cotton,Nebraska,Medium,10,Fall
+2023-10-09,Aphids,Larva,Corn,Iowa,Medium,10,Fall
+2023-10-09,Corn Rootworm,Adult,Cotton,Texas,Low,10,Fall
+2023-10-10,Corn Rootworm,Adult,Wheat,Illinois,Medium,10,Fall
+2023-10-10,Japanese Beetle,Egg,Corn,California,Low,10,Fall
+2023-10-10,Aphids,Larva,Corn,Nebraska,Medium,10,Fall
+2023-10-10,Armyworms,Pupa,Corn,California,Low,10,Fall
+2023-10-11,Cutworms,Pupa,Cotton,California,High,10,Fall
+2023-10-12,Japanese Beetle,Larva,Corn,Iowa,Medium,10,Fall
+2023-10-12,Cutworms,Egg,Corn,California,High,10,Fall
+2023-10-12,Corn Rootworm,Adult,Soybeans,Nebraska,Low,10,Fall
+2023-10-12,Japanese Beetle,Adult,Corn,Iowa,High,10,Fall
+2023-10-13,Corn Rootworm,Larva,Cotton,Illinois,Medium,10,Fall
+2023-10-13,Corn Rootworm,Pupa,Cotton,Texas,Medium,10,Fall
+2023-10-14,Japanese Beetle,Larva,Rice,Illinois,High,10,Fall
+2023-10-15,Corn Rootworm,Larva,Rice,Illinois,Medium,10,Fall
+2023-10-16,Cutworms,Larva,Wheat,California,Medium,10,Fall
+2023-10-16,Aphids,Pupa,Rice,Nebraska,Medium,10,Fall
+2023-10-16,Aphids,Larva,Corn,Illinois,Low,10,Fall
+2023-10-16,Aphids,Egg,Rice,Illinois,Low,10,Fall
+2023-10-16,Cutworms,Pupa,Corn,Nebraska,Low,10,Fall
+2023-10-16,Cutworms,Larva,Corn,Iowa,High,10,Fall
+2023-10-17,Armyworms,Egg,Wheat,Iowa,Low,10,Fall
+2023-10-17,Corn Rootworm,Adult,Wheat,Nebraska,Medium,10,Fall
+2023-10-17,Cutworms,Egg,Cotton,Nebraska,Low,10,Fall
+2023-10-18,Japanese Beetle,Adult,Corn,Iowa,Medium,10,Fall
+2023-10-19,Corn Rootworm,Adult,Soybeans,Nebraska,Low,10,Fall
+2023-10-19,Corn Rootworm,Egg,Soybeans,Texas,High,10,Fall
+2023-10-20,Aphids,Adult,Soybeans,Iowa,Medium,10,Fall
+2023-10-20,Armyworms,Pupa,Soybeans,Illinois,Low,10,Fall
+2023-10-20,Cutworms,Larva,Cotton,California,Medium,10,Fall
+2023-10-20,Cutworms,Larva,Rice,Iowa,High,10,Fall
+2023-10-21,Aphids,Larva,Wheat,California,Medium,10,Fall
+2023-10-21,Armyworms,Egg,Rice,Iowa,Low,10,Fall
+2023-10-21,Aphids,Larva,Rice,California,Low,10,Fall
+2023-10-21,Armyworms,Pupa,Rice,Illinois,Medium,10,Fall
+2023-10-22,Japanese Beetle,Egg,Cotton,Iowa,Medium,10,Fall
+2023-10-22,Corn Rootworm,Egg,Cotton,Nebraska,High,10,Fall
+2023-10-22,Corn Rootworm,Adult,Wheat,California,High,10,Fall
+2023-10-22,Aphids,Egg,Soybeans,California,High,10,Fall
+2023-10-22,Aphids,Adult,Rice,Texas,Low,10,Fall
+2023-10-23,Armyworms,Egg,Rice,Texas,Medium,10,Fall
+2023-10-23,Armyworms,Pupa,Rice,Iowa,Low,10,Fall
+2023-10-23,Japanese Beetle,Pupa,Corn,Illinois,Low,10,Fall
+2023-10-23,Japanese Beetle,Adult,Soybeans,Nebraska,Low,10,Fall
+2023-10-24,Aphids,Egg,Rice,Texas,Low,10,Fall
+2023-10-24,Aphids,Pupa,Cotton,Illinois,High,10,Fall
+2023-10-24,Cutworms,Larva,Rice,Illinois,High,10,Fall
+2023-10-25,Armyworms,Pupa,Wheat,Iowa,High,10,Fall
+2023-10-25,Corn Rootworm,Egg,Cotton,Iowa,Medium,10,Fall
+2023-10-25,Corn Rootworm,Adult,Corn,Iowa,High,10,Fall
+2023-10-26,Corn Rootworm,Egg,Soybeans,Texas,Low,10,Fall
+2023-10-26,Aphids,Pupa,Rice,Nebraska,Low,10,Fall
+2023-10-26,Armyworms,Larva,Rice,Illinois,Low,10,Fall
+2023-10-26,Cutworms,Adult,Cotton,Nebraska,Medium,10,Fall
+2023-10-27,Aphids,Pupa,Soybeans,Illinois,Low,10,Fall
+2023-10-27,Aphids,Larva,Rice,Nebraska,Medium,10,Fall
+2023-10-27,Corn Rootworm,Adult,Corn,California,Medium,10,Fall
+2023-10-28,Aphids,Adult,Wheat,Nebraska,Medium,10,Fall
+2023-10-29,Japanese Beetle,Adult,Corn,Iowa,Medium,10,Fall
+2023-10-30,Aphids,Pupa,Rice,Texas,Low,10,Fall
+2023-10-30,Armyworms,Adult,Cotton,Nebraska,Medium,10,Fall
+2023-10-30,Cutworms,Larva,Cotton,Nebraska,Medium,10,Fall
+2023-10-31,Corn Rootworm,Larva,Corn,California,Medium,10,Fall
+2023-10-31,Cutworms,Larva,Wheat,Texas,Medium,10,Fall
+2023-11-01,Armyworms,Egg,Wheat,Illinois,Low,11,Fall
+2023-11-01,Japanese Beetle,Adult,Cotton,Nebraska,Low,11,Fall
+2023-11-02,Cutworms,Egg,Wheat,Illinois,Medium,11,Fall
+2023-11-02,Armyworms,Larva,Wheat,Nebraska,Low,11,Fall
+2023-11-02,Armyworms,Adult,Wheat,Iowa,High,11,Fall
+2023-11-03,Aphids,Pupa,Soybeans,Iowa,Medium,11,Fall
+2023-11-03,Japanese Beetle,Egg,Soybeans,Nebraska,Low,11,Fall
+2023-11-04,Japanese Beetle,Larva,Cotton,Nebraska,High,11,Fall
+2023-11-05,Corn Rootworm,Pupa,Corn,Texas,Medium,11,Fall
+2023-11-05,Armyworms,Pupa,Corn,Illinois,Medium,11,Fall
+2023-11-05,Corn Rootworm,Adult,Rice,California,Medium,11,Fall
+2023-11-05,Corn Rootworm,Egg,Cotton,Texas,Medium,11,Fall
+2023-11-06,Corn Rootworm,Larva,Cotton,Illinois,Low,11,Fall
+2023-11-06,Cutworms,Egg,Soybeans,Illinois,Low,11,Fall
+2023-11-07,Corn Rootworm,Adult,Rice,California,Low,11,Fall
+2023-11-07,Aphids,Pupa,Soybeans,Iowa,Medium,11,Fall
+2023-11-07,Aphids,Adult,Cotton,Nebraska,Medium,11,Fall
+2023-11-07,Cutworms,Adult,Rice,Iowa,Low,11,Fall
+2023-11-08,Aphids,Larva,Cotton,Texas,High,11,Fall
+2023-11-08,Japanese Beetle,Larva,Wheat,Nebraska,Medium,11,Fall
+2023-11-08,Cutworms,Larva,Rice,Nebraska,Low,11,Fall
+2023-11-08,Armyworms,Larva,Corn,Iowa,High,11,Fall
+2023-11-09,Corn Rootworm,Egg,Corn,California,Medium,11,Fall
+2023-11-09,Cutworms,Pupa,Cotton,Iowa,Low,11,Fall
+2023-11-09,Armyworms,Larva,Soybeans,Nebraska,High,11,Fall
+2023-11-09,Japanese Beetle,Larva,Wheat,Illinois,Low,11,Fall
+2023-11-09,Corn Rootworm,Larva,Soybeans,Illinois,Medium,11,Fall
+2023-11-09,Corn Rootworm,Egg,Soybeans,Texas,Medium,11,Fall
+2023-11-10,Armyworms,Adult,Corn,Illinois,Medium,11,Fall
+2023-11-10,Corn Rootworm,Larva,Soybeans,Nebraska,Medium,11,Fall
+2023-11-11,Japanese Beetle,Egg,Rice,Illinois,Medium,11,Fall
+2023-11-11,Japanese Beetle,Adult,Rice,Nebraska,Medium,11,Fall
+2023-11-12,Japanese Beetle,Adult,Cotton,Iowa,Low,11,Fall
+2023-11-12,Armyworms,Pupa,Corn,Iowa,High,11,Fall
+2023-11-12,Corn Rootworm,Adult,Wheat,Texas,Low,11,Fall
+2023-11-13,Corn Rootworm,Larva,Cotton,Illinois,High,11,Fall
+2023-11-13,Japanese Beetle,Egg,Corn,Nebraska,High,11,Fall
+2023-11-13,Cutworms,Pupa,Rice,Nebraska,Low,11,Fall
+2023-11-14,Japanese Beetle,Adult,Wheat,Iowa,Low,11,Fall
+2023-11-15,Cutworms,Adult,Rice,Texas,Low,11,Fall
+2023-11-15,Cutworms,Adult,Rice,Iowa,Medium,11,Fall
+2023-11-15,Aphids,Pupa,Cotton,California,Medium,11,Fall
+2023-11-15,Corn Rootworm,Adult,Corn,California,High,11,Fall
+2023-11-15,Aphids,Adult,Cotton,Texas,High,11,Fall
+2023-11-15,Aphids,Pupa,Soybeans,Iowa,Medium,11,Fall
+2023-11-15,Armyworms,Pupa,Corn,Iowa,Low,11,Fall
+2023-11-16,Armyworms,Pupa,Soybeans,California,Low,11,Fall
+2023-11-16,Corn Rootworm,Egg,Wheat,Illinois,Low,11,Fall
+2023-11-16,Cutworms,Pupa,Cotton,Iowa,Low,11,Fall
+2023-11-17,Corn Rootworm,Adult,Wheat,California,Low,11,Fall
+2023-11-17,Japanese Beetle,Larva,Soybeans,Nebraska,Low,11,Fall
+2023-11-17,Aphids,Adult,Rice,Illinois,Low,11,Fall
+2023-11-18,Corn Rootworm,Larva,Wheat,Nebraska,Low,11,Fall
+2023-11-18,Aphids,Egg,Wheat,Illinois,Low,11,Fall
+2023-11-18,Corn Rootworm,Adult,Wheat,Iowa,High,11,Fall
+2023-11-19,Aphids,Egg,Wheat,California,Medium,11,Fall
+2023-11-19,Japanese Beetle,Larva,Corn,Texas,High,11,Fall
+2023-11-19,Armyworms,Pupa,Rice,Illinois,High,11,Fall
+2023-11-19,Corn Rootworm,Pupa,Soybeans,Nebraska,Medium,11,Fall
+2023-11-20,Aphids,Egg,Corn,Illinois,Low,11,Fall
+2023-11-20,Japanese Beetle,Larva,Soybeans,Texas,Low,11,Fall
+2023-11-20,Armyworms,Egg,Corn,Illinois,Low,11,Fall
+2023-11-21,Cutworms,Pupa,Cotton,Texas,Medium,11,Fall
+2023-11-21,Cutworms,Larva,Wheat,Illinois,Medium,11,Fall
+2023-11-21,Japanese Beetle,Pupa,Corn,Iowa,Medium,11,Fall
+2023-11-22,Japanese Beetle,Adult,Wheat,California,High,11,Fall
+2023-11-22,Cutworms,Adult,Rice,Nebraska,High,11,Fall
+2023-11-22,Cutworms,Pupa,Wheat,California,High,11,Fall
+2023-11-22,Armyworms,Pupa,Corn,California,Medium,11,Fall
+2023-11-22,Japanese Beetle,Adult,Cotton,Iowa,Low,11,Fall
+2023-11-22,Corn Rootworm,Larva,Corn,Illinois,High,11,Fall
+2023-11-22,Cutworms,Pupa,Wheat,Illinois,Low,11,Fall
+2023-11-22,Armyworms,Egg,Wheat,Iowa,High,11,Fall
+2023-11-23,Aphids,Larva,Wheat,Texas,Medium,11,Fall
+2023-11-23,Aphids,Pupa,Rice,Nebraska,High,11,Fall
+2023-11-23,Corn Rootworm,Adult,Cotton,California,High,11,Fall
+2023-11-23,Aphids,Egg,Rice,California,Low,11,Fall
+2023-11-23,Japanese Beetle,Pupa,Rice,Illinois,Low,11,Fall
+2023-11-24,Corn Rootworm,Adult,Cotton,Iowa,Medium,11,Fall
+2023-11-24,Japanese Beetle,Adult,Cotton,Iowa,High,11,Fall
+2023-11-25,Cutworms,Adult,Corn,California,High,11,Fall
+2023-11-25,Japanese Beetle,Adult,Wheat,Illinois,Low,11,Fall
+2023-11-25,Japanese Beetle,Pupa,Wheat,Iowa,Medium,11,Fall
+2023-11-26,Corn Rootworm,Adult,Rice,Nebraska,Medium,11,Fall
+2023-11-26,Armyworms,Adult,Rice,Iowa,Medium,11,Fall
+2023-11-26,Cutworms,Pupa,Corn,Iowa,Medium,11,Fall
+2023-11-27,Aphids,Adult,Corn,Nebraska,Low,11,Fall
+2023-11-27,Aphids,Adult,Corn,Nebraska,Medium,11,Fall
+2023-11-28,Japanese Beetle,Adult,Cotton,Iowa,High,11,Fall
+2023-11-28,Japanese Beetle,Adult,Corn,California,Low,11,Fall
+2023-11-29,Cutworms,Egg,Rice,Illinois,Low,11,Fall
+2023-11-29,Japanese Beetle,Pupa,Cotton,Texas,Medium,11,Fall
+2023-11-29,Cutworms,Pupa,Rice,Nebraska,Low,11,Fall
+2023-11-30,Armyworms,Larva,Soybeans,California,Low,11,Fall
+2023-11-30,Corn Rootworm,Egg,Soybeans,Nebraska,High,11,Fall
+2023-11-30,Cutworms,Adult,Cotton,Nebraska,Low,11,Fall
+2023-12-01,Cutworms,Pupa,Soybeans,Iowa,High,12,Fall
+2023-12-02,Armyworms,Pupa,Cotton,California,Medium,12,Fall
+2023-12-02,Cutworms,Larva,Cotton,Illinois,Low,12,Fall
+2023-12-02,Armyworms,Adult,Wheat,Iowa,High,12,Fall
+2023-12-02,Cutworms,Pupa,Corn,California,Medium,12,Fall
+2023-12-02,Corn Rootworm,Pupa,Corn,Texas,Low,12,Fall
+2023-12-02,Japanese Beetle,Egg,Wheat,Illinois,Medium,12,Fall
+2023-12-03,Cutworms,Pupa,Rice,Texas,High,12,Fall
+2023-12-03,Cutworms,Egg,Soybeans,Nebraska,High,12,Fall
+2023-12-05,Armyworms,Larva,Corn,Illinois,High,12,Fall
+2023-12-06,Japanese Beetle,Adult,Rice,Nebraska,Medium,12,Fall
+2023-12-06,Aphids,Adult,Cotton,Iowa,High,12,Fall
+2023-12-06,Cutworms,Adult,Cotton,Illinois,Low,12,Fall
+2023-12-06,Corn Rootworm,Adult,Cotton,Illinois,High,12,Fall
+2023-12-07,Corn Rootworm,Adult,Soybeans,Illinois,High,12,Fall
+2023-12-07,Japanese Beetle,Adult,Rice,Texas,Low,12,Fall
+2023-12-07,Armyworms,Pupa,Wheat,Iowa,Low,12,Fall
+2023-12-08,Aphids,Larva,Corn,Texas,Medium,12,Fall
+2023-12-09,Armyworms,Pupa,Corn,Texas,Medium,12,Fall
+2023-12-10,Japanese Beetle,Egg,Rice,Texas,Medium,12,Fall
+2023-12-10,Aphids,Pupa,Soybeans,Iowa,Low,12,Fall
+2023-12-10,Corn Rootworm,Adult,Rice,Illinois,High,12,Fall
+2023-12-10,Aphids,Egg,Corn,California,Medium,12,Fall
+2023-12-11,Aphids,Adult,Corn,Illinois,Low,12,Fall
+2023-12-11,Cutworms,Larva,Corn,California,Medium,12,Fall
+2023-12-11,Japanese Beetle,Egg,Soybeans,Illinois,Medium,12,Fall
+2023-12-11,Corn Rootworm,Larva,Corn,Texas,High,12,Fall
+2023-12-12,Japanese Beetle,Pupa,Corn,Illinois,High,12,Fall
+2023-12-12,Cutworms,Egg,Wheat,California,Medium,12,Fall
+2023-12-12,Cutworms,Adult,Soybeans,Nebraska,High,12,Fall
+2023-12-13,Aphids,Adult,Rice,Nebraska,Low,12,Fall
+2023-12-14,Corn Rootworm,Egg,Rice,California,Medium,12,Fall
+2023-12-15,Cutworms,Pupa,Wheat,Texas,Medium,12,Fall
+2023-12-15,Japanese Beetle,Adult,Wheat,Nebraska,Low,12,Fall
+2023-12-16,Aphids,Adult,Wheat,Iowa,Low,12,Fall
+2023-12-17,Corn Rootworm,Pupa,Cotton,Nebraska,Medium,12,Fall
+2023-12-17,Cutworms,Larva,Soybeans,Texas,Low,12,Fall
+2023-12-17,Cutworms,Pupa,Soybeans,Iowa,Low,12,Fall
+2023-12-18,Cutworms,Larva,Rice,Nebraska,Medium,12,Fall
+2023-12-18,Japanese Beetle,Pupa,Corn,Iowa,High,12,Fall
+2023-12-18,Aphids,Egg,Wheat,Nebraska,High,12,Fall
+2023-12-18,Japanese Beetle,Egg,Wheat,Iowa,High,12,Fall
+2023-12-18,Aphids,Egg,Corn,Texas,Low,12,Fall
+2023-12-19,Corn Rootworm,Pupa,Wheat,Iowa,Medium,12,Fall
+2023-12-20,Armyworms,Egg,Corn,Iowa,Low,12,Fall
+2023-12-20,Aphids,Egg,Rice,Nebraska,Medium,12,Fall
+2023-12-20,Aphids,Adult,Cotton,Texas,Medium,12,Fall
+2023-12-20,Japanese Beetle,Pupa,Soybeans,Iowa,Medium,12,Fall
+2023-12-21,Cutworms,Larva,Wheat,Illinois,Low,12,Fall
+2023-12-21,Japanese Beetle,Egg,Corn,Iowa,High,12,Fall
+2023-12-21,Aphids,Egg,Corn,Iowa,High,12,Fall
+2023-12-21,Armyworms,Larva,Rice,Iowa,High,12,Fall
+2023-12-21,Corn Rootworm,Adult,Corn,Iowa,Low,12,Fall
+2023-12-22,Armyworms,Egg,Corn,California,Medium,12,Fall
+2023-12-22,Japanese Beetle,Egg,Corn,Nebraska,High,12,Fall
+2023-12-23,Cutworms,Pupa,Cotton,California,High,12,Fall
+2023-12-24,Aphids,Pupa,Wheat,Illinois,Medium,12,Fall
+2023-12-24,Armyworms,Pupa,Corn,California,Medium,12,Fall
+2023-12-24,Armyworms,Larva,Cotton,Texas,Medium,12,Fall
+2023-12-25,Aphids,Egg,Soybeans,Illinois,Low,12,Fall
+2023-12-25,Corn Rootworm,Adult,Cotton,Illinois,Low,12,Fall
+2023-12-25,Cutworms,Pupa,Cotton,California,High,12,Fall
+2023-12-26,Cutworms,Pupa,Cotton,Texas,High,12,Fall
+2023-12-26,Corn Rootworm,Adult,Rice,California,Low,12,Fall
+2023-12-26,Corn Rootworm,Egg,Wheat,Illinois,High,12,Fall
+2023-12-26,Corn Rootworm,Adult,Rice,Texas,Medium,12,Fall
+2023-12-27,Cutworms,Larva,Wheat,Illinois,Medium,12,Fall
+2023-12-27,Armyworms,Adult,Cotton,California,Medium,12,Fall
+2023-12-27,Cutworms,Adult,Soybeans,California,Medium,12,Fall
+2023-12-28,Cutworms,Larva,Rice,California,Low,12,Fall
+2023-12-28,Aphids,Adult,Rice,Iowa,High,12,Fall
+2023-12-28,Corn Rootworm,Egg,Cotton,Iowa,High,12,Fall
+2023-12-28,Aphids,Larva,Cotton,California,Medium,12,Fall
+2023-12-28,Corn Rootworm,Egg,Corn,Texas,Low,12,Fall
+2023-12-29,Japanese Beetle,Adult,Corn,Texas,Low,12,Fall
+2023-12-29,Aphids,Adult,Rice,Iowa,Low,12,Fall
+2023-12-30,Armyworms,Adult,Soybeans,Illinois,High,12,Fall
+2023-12-30,Armyworms,Larva,Corn,California,Low,12,Fall
+2023-12-30,Cutworms,Egg,Wheat,Texas,High,12,Fall

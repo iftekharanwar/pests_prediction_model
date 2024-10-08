@@ -1,0 +1,3 @@
+# Pest Prediction Model Update Cron Job
+# Run daily at midnight
+0 0 * * * /usr/bin/python /home/ubuntu/pest_prediction_model/src/update_model.py >> /home/ubuntu/pest_prediction_model/update_log.txt 2>&1
